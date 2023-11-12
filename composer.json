@@ -1,0 +1,36 @@
+{
+    "name": "goldfinch/recipe-components",
+    "description": "",
+    "type": "silverstripe-vendormodule",
+    "keywords": [
+        "silverstripe"
+    ],
+    "license": "MIT",
+    "authors": [{
+        "name": "Artem Karasev"
+    }],
+    "require": {
+        "php": ">=8.0",
+        "silverstripe/framework": "^5.0",
+        "silverstripe/admin": "^2.0",
+        "goldfinch/component-reviews": "dev-main",
+        "goldfinch/component-faq": "dev-main",
+        "goldfinch/component-brands": "dev-main",
+        "goldfinch/component-blank-item": "dev-main",
+        "goldfinch/component-team": "dev-main",
+        "goldfinch/component-services": "dev-main",
+        "goldfinch/component-projects": "dev-main",
+        "goldfinch/component-products": "dev-main",
+        "goldfinch/component-events": "dev-main",
+        "goldfinch/component-blog": "dev-main",
+        "goldfinch/component-media": "dev-main",
+        "goldfinch/component-forms": "dev-main"
+    },
+    "autoload": {
+        "psr-4": {
+            "Goldfinch\\RecipeComponents\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
