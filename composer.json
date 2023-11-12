@@ -13,6 +13,11 @@
         "php": ">=8.0",
         "silverstripe/framework": "^5.0",
         "silverstripe/admin": "^2.0",
+        "goldfinch/socialkit": "dev-main",
+        "goldfinch/cookieconsent": "dev-main",
+        "goldfinch/html-components": "dev-master",
+        "goldfinch/search": "dev-main",
+        "goldfinch/loadable": "dev-main",
         "goldfinch/component-reviews": "dev-main",
         "goldfinch/component-faq": "dev-main",
         "goldfinch/component-brands": "dev-main",
@@ -24,7 +29,10 @@
         "goldfinch/component-events": "dev-main",
         "goldfinch/component-blog": "dev-main",
         "goldfinch/component-media": "dev-main",
-        "goldfinch/component-forms": "dev-main"
+        "goldfinch/component-forms": "dev-main",
+        "goldfinch/google-maps": "dev-master",
+        "goldfinch/bugtracker": "dev-master",
+        "goldfinch/performance": "dev-master"
     },
     "autoload": {
         "psr-4": {
