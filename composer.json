@@ -30,7 +30,7 @@
         "goldfinch/component-blog": "dev-main",
         "goldfinch/component-media": "dev-main",
         "goldfinch/component-forms": "dev-main",
-        "goldfinch/google-maps": "dev-master",
+        "goldfinch/component-maps": "dev-master",
         "goldfinch/bugtracker": "dev-master",
         "goldfinch/performance": "dev-master"
     },
