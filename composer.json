@@ -32,7 +32,9 @@
         "goldfinch/component-forms": "dev-main",
         "goldfinch/component-maps": "dev-master",
         "goldfinch/bugtracker": "dev-master",
-        "goldfinch/performance": "dev-master"
+        "goldfinch/performance": "dev-master",
+        "goldfinch/youtube": "dev-main",
+        "goldfinch/trademe": "dev-main"
     },
     "autoload": {
         "psr-4": {
