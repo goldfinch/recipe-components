@@ -16,7 +16,7 @@
         "silverstripe/admin": "^2.0",
         "goldfinch/social-media": "^1.0",
         "goldfinch/cookieconsent": "^1.0",
-        "goldfinch/html-components": "^1.0",
+        "goldfinch/html-snippets": "^1.0",
         "goldfinch/search": "^1.0",
         "goldfinch/loadable": "^1.0",
         "goldfinch/google-maps": "^1.0",
