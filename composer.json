@@ -14,11 +14,11 @@
         "php": ">=8.0",
         "silverstripe/framework": "^5.0",
         "silverstripe/admin": "^2.0",
-        "goldfinch/social-media": "^1.0",
+        "goldfinch/social-media": "^2.0",
         "goldfinch/cookieconsent": "^1.0",
         "goldfinch/html-snippets": "^2.0",
-        "goldfinch/search": "^1.0",
-        "goldfinch/loadable": "^1.0",
+        "goldfinch/search": "^2.0",
+        "goldfinch/loadable": "^2.0",
         "goldfinch/google-maps": "^2.0",
         "goldfinch/component-reviews": "^2.0",
         "goldfinch/component-faq": "^2.0",
@@ -34,7 +34,7 @@
         "goldfinch/bugtracker": "^1.0",
         "goldfinch/performance": "^1.0",
         "goldfinch/youtube": "^2.0",
-        "goldfinch/trademe": "^1.0"
+        "goldfinch/trademe": "^2.0"
     },
     "autoload": {
         "psr-4": {
