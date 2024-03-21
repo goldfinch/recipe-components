@@ -34,7 +34,8 @@
         "goldfinch/bugtracker": "^1.0",
         "goldfinch/performance": "^1.0",
         "goldfinch/youtube": "^2.0",
-        "goldfinch/trademe": "^2.0"
+        "goldfinch/trademe": "^2.0",
+        "goldfinch/front-components": "^1.0"
     },
     "autoload": {
         "psr-4": {
